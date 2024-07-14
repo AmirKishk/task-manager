@@ -103,6 +103,7 @@ const deleteTask = (id) => {
 }
 
 .item {
+  flex: 1;
   text-align: left;
   padding-left: 16px;
   max-width: 300px;
